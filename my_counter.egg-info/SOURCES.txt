@@ -1,0 +1,7 @@
+setup.py
+counter/__init__.py
+my_counter.egg-info/PKG-INFO
+my_counter.egg-info/SOURCES.txt
+my_counter.egg-info/dependency_links.txt
+my_counter.egg-info/requires.txt
+my_counter.egg-info/top_level.txt

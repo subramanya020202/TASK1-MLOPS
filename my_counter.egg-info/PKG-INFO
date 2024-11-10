@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: my-counter
+Version: 0.1
+Summary: A simple counter module with increment, decrement, and randomize functions.
+Home-page: https://example.com/my_counter
+Author: Your Name
+Author-email: your.email@example.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
